@@ -1,0 +1,30 @@
+body{
+	display: block;
+	background-color:lightblue;
+	padding-left: auto;
+	padding-right: auto;
+	padding-top: 5%;
+	width: 100%;
+	
+}
+div.qr_code{
+display:block;
+text-align:center;
+background-color:white;
+margin-left:auto;
+margin-right:auto;
+width:300px;
+border-radius:20px;
+}
+div.qr_code img{
+	height:auto;
+	width:100%;
+	border-radius:20px;
+}
+.image{
+	padding:20px;
+}
+h2,  p {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
