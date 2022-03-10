@@ -28,7 +28,7 @@ h2,  p {
 }
 @media screen and (max-width: 600px){
 	body{
-		background-color:lightblue;
+		background-color:red;
 		padding-left: auto;
 		padding-right: auto;
 		padding: 0;
@@ -39,7 +39,7 @@ h2,  p {
 	div.qr_code{
 		text-align:center;
 		background-color:white;
-		margin: 10% auto;
+		margin: 20% auto;
 		width:70%;
 		border-radius:20px;
 		}
