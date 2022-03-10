@@ -1,5 +1,4 @@
 body{
-	display: block;
 	background-color:lightblue;
 	padding-left: auto;
 	padding-right: auto;
@@ -8,7 +7,6 @@ body{
 	
 }
 div.qr_code{
-display:block;
 text-align:center;
 background-color:white;
 margin-left:auto;
