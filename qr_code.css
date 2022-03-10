@@ -28,7 +28,7 @@ h2,  p {
 }
 @media screen and (max-width: 600px){
 	body{
-		background-color:red;
+		background-color:lightblue;
 		padding-left: auto;
 		padding-right: auto;
 		padding: 0;
